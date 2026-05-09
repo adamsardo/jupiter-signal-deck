@@ -37,5 +37,5 @@ wrangler secret put JUPITER_API_KEY
 ## Bounty Submission Links
 
 - Live app: https://jupiter-signal-deck.adamsardo98.workers.dev
-- Repo: pending GitHub publish
+- Repo: https://github.com/adamsardo/jupiter-signal-deck
 - DX report: [DX-REPORT.md](./DX-REPORT.md)
